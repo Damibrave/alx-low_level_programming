@@ -1,6 +1,6 @@
 /*
  * File: 6-print_numberz.c
- * Auth: Timothy victor
+ * Auth: Dami Odukoya
  */
 
 #include <stdio.h>
